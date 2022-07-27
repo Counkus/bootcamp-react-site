@@ -1,3 +1,14 @@
+Website created during nucamp course using React, Redux, Javascript, 
+![image](https://user-images.githubusercontent.com/104472430/181131378-95968e46-f823-485c-8670-d1351e6cf9e2.png)
+
+Features: Cards, Forms, useState Hooks, useReducer Hooks, React Spring Animations, Client-Server Communication with json server, 
+
+![image](https://user-images.githubusercontent.com/104472430/181131434-54f7daa6-93cd-4558-9008-554a35ad04d9.png)
+
+![image](https://user-images.githubusercontent.com/104472430/181131508-ca17508e-47dc-4465-ac53-33c1566fb4ef.png)
+
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
